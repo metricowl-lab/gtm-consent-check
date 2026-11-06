@@ -1,0 +1,5 @@
+homepage: "https://www.metricowl.co.uk/gtm-templates"
+documentation: "https://github.com/metricowl-lab/gtm-consent-check#readme"
+versions:
+  - sha: c27f6433633b5d992191e277caaeb16be2041bed
+    changeNotes: Initial release.
